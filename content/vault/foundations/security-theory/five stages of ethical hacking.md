@@ -127,9 +127,9 @@ aliases:
 > (scanning & enumeration): Define the **scanning & enumeration** phase of the ethical hacking cycle;;;(**Define**): In this stage, the ethical hacker actively probes the target system or network to discover open ports, services, and vulnerabilities. Various tools and techniques are employed, such as port scanning, network mapping, and vulnerability scanning. This stage helps identify potential weaknesses that can be exploited.
 > What are the **five** stages of ethical hacking?;;Reconnaissance, Scanning & Enumeration, Gaining Access ("Exploitation"), Maintaining Access, and Covering Tracks
 
-## References
+## Related
 
 
-[^1]: [YouTube - Ethical Hacking in 12 Hours - Full Course - Learn to Hack! (Zotero)](http://zotero.org/groups/5737020/items/4MD46N3Y)
+[^1]: [YouTube - Ethical Hacking in 12 Hours - Full Course - Learn to Hack!](http://zotero.org/groups/5737020/items/4MD46N3Y)
 [^10]: [Obsidian - Homepage](http://zotero.org/groups/5737020/items/5AMRCP64)
 [^11]: [Spaced Repetition Obsidian Plugin - Github](http://zotero.org/groups/5737020/items/ZT6T6SKU)
