@@ -9,7 +9,7 @@ flashcards: false
 status:
   - 🟩
 aliases:
-  - Tcp Three-Way Handshake
+  - TCP Three-Way Handshake
 ---
 
 ## Notes
