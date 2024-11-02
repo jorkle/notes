@@ -26,6 +26,8 @@ aliases:
 > **(source) :** ***Geeks for Geeks*** [^1]
 
 ## Flashcards
+**Note: For use with Obsidian's "*spaced repetition*" plugin**
+
 What is the **TCP 3-Way Handshake**?;;The ***TCP 3-Way Handshake*** is a fundamental process used in the ***Transmission Control Protocol (TCP)*** to establish a reliable connection between a client and a server before data transmission begins. This handshake ensures that both parties are synchronized and ready for communication.
 
 ## References

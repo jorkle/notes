@@ -11,6 +11,3 @@ status:
 aliases:
   - Computer Science Theory
 ---
-
-## Index
-- **TBA**

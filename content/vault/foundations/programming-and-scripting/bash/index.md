@@ -12,6 +12,3 @@ status:
 aliases:
   - Bash
 ---
-
-## Index
-- **TBA**

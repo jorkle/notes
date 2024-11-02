@@ -13,6 +13,7 @@ status:
 - **TBA**
 
 ## Flashcards
+**Note: For use with Obsidian's "*spaced repetition*" plugin**
 
 ## References
 - {{link}}

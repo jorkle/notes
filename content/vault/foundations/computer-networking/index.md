@@ -11,7 +11,3 @@ status:
 aliases:
   - Computer Networking
 ---
-
-
-## Index
-- [[tcp three way handshake|Tcp Three-Way Handshake]]

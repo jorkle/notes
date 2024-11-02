@@ -11,7 +11,3 @@ status:
 aliases:
   - Operating Systems
 ---
-
-## Index
-- [[linux/index|Linux]]
-- [[windows/index|Windows]]

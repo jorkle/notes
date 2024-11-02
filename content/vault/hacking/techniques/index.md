@@ -11,6 +11,3 @@ status:
 aliases:
   - Tactics, Techniques, and Proceedures
 ---
-
-## Index
-- **TBA**

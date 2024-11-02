@@ -12,6 +12,3 @@ status:
 aliases:
   - Linux
 ---
-
-## Index
-- **TBA**

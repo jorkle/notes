@@ -12,6 +12,3 @@ status:
 aliases:
   - Windows
 ---
-
-## Index
-- **TBA**

@@ -12,6 +12,3 @@ status:
 aliases:
   - PHP
 ---
-
-## Index
-- **TBA**

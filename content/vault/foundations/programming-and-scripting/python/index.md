@@ -12,6 +12,3 @@ status:
 aliases:
   - Python
 ---
-
-## Index
-- **TBA**

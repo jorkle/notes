@@ -11,6 +11,3 @@ status:
 aliases:
   - Cheatsheets
 ---
-
-## Index
-- **TBA**

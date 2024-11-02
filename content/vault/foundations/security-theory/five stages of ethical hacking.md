@@ -52,7 +52,9 @@ aliases:
 > 
 > **(source) :** ***Ethical Hacking in 12 Hours - Full Course - Learn to Hack!*** [^1] 
 
-## Flashcards (for use with the Obsidian "spaced repetition" plugin)
+## Flashcards
+**Note: For use with Obsidian's "*spaced repetition*" plugin**
+
 (reconnaissance): Define the **reconnaissance** phase of the ethical hacking cycle;;;(**Define**): This stage involves gathering information about the target system or network. It includes passive information gathering techniques such as searching publicly available information, browsing websites, and examining DNS records. The goal is to collect as much information as possible to understand the target and identify potential entry points.
 (scanning & enumeration): Define the **scanning & enumeration** phase of the ethical hacking cycle;;;(**Define**): In this stage, the ethical hacker actively probes the target system or network to discover open ports, services, and vulnerabilities. Various tools and techniques are employed, such as port scanning, network mapping, and vulnerability scanning. This stage helps identify potential weaknesses that can be exploited.
 What are the **five** stages of ethical hacking?;;Reconnaissance, Scanning & Enumeration, Gaining Access ("Exploitation"), Maintaining Access, and Covering Tracks
@@ -60,4 +62,5 @@ What are the **five** stages of ethical hacking?;;Reconnaissance, Scanning & Enu
 ## References
 
 
-[^1]: [Ethical Hacking in 12 Hours - Full Course - Learn to Hack! - YouTube](https://youtu.be/fNzpcB7ODxQ?si=9c-6_-bpPwXt_rkr&t=19573)
+[^1]: [YouTube - Ethical Hacking in 12 Hours - Full Course - Learn to Hack! (Zotero)
+](http://zotero.org/groups/5737020/items/4MD46N3Y)

@@ -12,6 +12,3 @@ status:
 aliases:
   - Powershell
 ---
-
-## Index
-- **TBA**

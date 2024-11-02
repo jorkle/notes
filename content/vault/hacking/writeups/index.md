@@ -11,6 +11,3 @@ status:
 aliases:
   - CTF Writeups
 ---
-
-## Index
-- **TBA**

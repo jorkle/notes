@@ -12,8 +12,3 @@ aliases:
   - Hacking
 ---
 
-
-## Index
-- [[cheatsheets/index|Cheatsheets]]
-- [[techniques/index|Tactics, Techniques, and Proceedures]]
-- [[writeups/index|CTF Writeups]]
