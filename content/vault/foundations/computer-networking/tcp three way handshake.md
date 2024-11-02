@@ -35,15 +35,17 @@ aliases:
 
 ## Flashcards
 > [!tip]- How To Use These Flashcards
-> **Requirements**
-> 1. Obsidian [^10] Installed
-> 2. Obsidian Vault Created
-> 3. Obsidian [^11] "***Spaced Repetition***" plugin installed
-> ---
-> **Instructions**
-> Configure the "***Spaced Repetition***" Obsidian Plugin to have the following settings:
-> - *Separator for inline flashcards*: `;;`
-> - *Separator for inline **reversed** flashcards*: `;;;`
+> 
+>> [!todo] Requirements
+>> 1. Obsidian [^10] Installed
+>> 2. Obsidian Vault Created
+>> 3. Obsidian [^11] "***Spaced Repetition***" plugin installed
+> 
+>> [!todo] Instructions
+>> 
+>> Configure the "***Spaced Repetition***" Obsidian Plugin to have the following settings:
+>> - *Separator for inline flashcards*: `;;`
+>> - *Separator for inline **reversed** flashcards*: `;;;`
 
 > [!info]- Flashcards
 > What is the **TCP 3-Way Handshake**?;;The ***TCP 3-Way Handshake*** is a fundamental process used in the ***Transmission Control Protocol (TCP)*** to establish a reliable connection between a client and a server before data transmission begins. This handshake ensures that both parties are synchronized and ready for communication.

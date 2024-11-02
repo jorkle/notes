@@ -112,15 +112,17 @@ aliases:
 
 ## Flashcards
 > [!tip]- How To Use These Flashcards
-> **Requirements**
-> 1. Obsidian [^10] Installed
-> 2. Obsidian Vault Created
-> 3. Obsidian [^11] "***Spaced Repetition***" plugin installed
-> ---
-> **Instructions**
-> Configure the "***Spaced Repetition***" Obsidian Plugin to have the following settings:
-> - *Separator for inline flashcards*: `;;`
-> - *Separator for inline **reversed** flashcards*: `;;;`
+> 
+>> [!todo] Requirements
+>> 1. Obsidian [^10] Installed
+>> 2. Obsidian Vault Created
+>> 3. Obsidian [^11] "***Spaced Repetition***" plugin installed
+> 
+>> [!todo] Instructions
+>> 
+>> Configure the "***Spaced Repetition***" Obsidian Plugin to have the following settings:
+>> - *Separator for inline flashcards*: `;;`
+>> - *Separator for inline **reversed** flashcards*: `;;;`
 
 > [!info]- Flashcards
 > (reconnaissance): Define the **reconnaissance** phase of the ethical hacking cycle;;(**Define**): This stage involves gathering information about the target system or network. It includes passive information gathering techniques such as searching publicly available information, browsing websites, and examining DNS records. The goal is to collect as much information as possible to understand the target and identify potential entry points.
