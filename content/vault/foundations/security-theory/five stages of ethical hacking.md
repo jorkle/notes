@@ -37,9 +37,10 @@ aliases:
 > 3. Gaining Access ("Exploitation")
 > 4. Maintaining Access
 > 5. Covering Tracks
->> [!info]- Sources 
+>> [!info] Sources 
 >> 
 >> 1. **TCM Security (YouTube)**: ***Ethical Hacking in 12 Hours - Full Course - Learn to Hack!*** [^1] 
+
 ---
 
 ### Definitions
