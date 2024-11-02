@@ -11,7 +11,6 @@ aliases:
   - Jorkle's Notes
 ---
 
-## Indexes
 
 
 
