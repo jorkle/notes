@@ -10,7 +10,7 @@ aliases:
   - Vault Index
 ---
 
-## Indexes
-
-
+## Example Notes
+- [[vault/foundations/security-theory/five stages of ethical hacking|five stages of ethical hacking]]
+- [[vault/foundations/computer-networking/tcp three way handshake|tcp three way handshake]]
 

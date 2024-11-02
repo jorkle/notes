@@ -4,18 +4,18 @@ permalink: tcp-three-way-handshake
 draft: false
 tags:
   - computer-networking
-  - theory
+  - foundations
 flashcards: false
 status:
   - 🟩
 aliases:
-  - tcp three way handshake
+  - Tcp Three-Way Handshake
 ---
 
 ## Notes
 
 ### Overview (3-Way Handshake)
-> ![[../attachments/handshake-1.png]]
+> ![[../../../attachments/handshake-1.png]]
 > 
 > **(source) :** ***Geeks for Geeks*** [^1]
 
