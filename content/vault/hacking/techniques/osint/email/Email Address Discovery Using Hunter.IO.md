@@ -22,25 +22,32 @@ aliases:
 
 ### Overview
 
-> [!quote] Email Address Discovery Using Hunter.IO
+> [!tldr] Email Address Discovery Using Hunter.IO
 > 
 > ![[../../../../../attachments/Pasted image 20241103093437.png]]
 > 
-> ***Hunter.io*** [^1] is a web service that can be leveraged to:
-> 1. Locate email addresses for a specific domain or organization.
-> 2. Identify the email address format(s) used by an organization.
+> ***Hunter.io*** [^1] is a web service that can be leveraged to
+> 1. Locate email addresses for a specific domain or organization
+> 2. Identify the email address format(s) used by an organization
 > 3. Validate email addresses
 > 
 > 
 >> [!info] Sources 
 >> 
->> 1. **Pentest Everything (viperone)**: ***Discovering Email Addresses*** [^2] 
+>> 1. **Pentest Everything (viperone)**: ***Discovering Email Addresses*** [^2] 
+>> 2. **TCM Security**: ***OSINT Fundamentals*** [^3]
 
+### Examples
+
+> [!example] Search Results (tesla.com)
+> 
+> ![[../../../../../attachments/Pasted image 20241103094858.png]]
 
 ## References
 
 
 [^1]: [Hunter.IO - Homepage](https://hunter.io/)
 [^2]: [http://zotero.org/groups/5737020/items/GZLNQ8ML](http://zotero.org/groups/5737020/items/GZLNQ8ML)
+[^3]: [Open-Source Intelligence Fundamentals - TCM Security](https://academy.tcm-sec.com/p/osint-fundamentals)
 [^10]: [Obsidian - Homepage](http://zotero.org/groups/5737020/items/5AMRCP64)
 [^11]: [Spaced Repetition Obsidian Plugin - Github](http://zotero.org/groups/5737020/items/ZT6T6SKU)
