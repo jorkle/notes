@@ -5,12 +5,26 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'jorkle/notes',
+        // from data-repo-id
+        repoId: 'R_kgDONJFv4g',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDONJFv4s4Cj8BD',
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
       "Blog": "https://jorkle.com",
       "Contact": "mailto:kyle@jorkle.com",
-      "GitHub": "https://github.com/jorkle",
+      "Gitrub": "https://github.com/jorkle",
       "Linkedin": "https://linkedin.com/in/kyleewalters",
     },
   }),

@@ -1,5 +1,6 @@
 ---
 title: Cheatsheets
+description: "Hacking cheatsheets"
 permalink: cheatsheets
 publish: true
 tags:

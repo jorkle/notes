@@ -1,5 +1,6 @@
 ---
 title: TCP Three-Way Handshake
+description: "The TCP three-way handshake"
 permalink: tcp-three-way-handshake
 draft: false
 tags:
@@ -11,6 +12,8 @@ status:
 aliases:
   - TCP Three-Way Handshake
 ---
+
+# TCP Three-Way Handshake
 
 ## Notes
 

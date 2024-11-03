@@ -1,6 +1,7 @@
 ---
 title: Email Address Discovery Using CrossLinked
-permalink: crosslinked-email-discovery
+description: "How to discover email addresses using CrossLinked (Linkedin OSINT tool)"
+permalink: crosslinked-email-osint-technique
 draft: false
 tags:
   - security
@@ -41,7 +42,7 @@ aliases:
 ## References
 
 
-[^1]: [m8sec/CrossLinked - Github](https://github.com/m8sec/CrossLinked)
+[^1]: [m8sec/CrossLinked - GitHub](https://github.com/m8sec/CrossLinked)
 [^2]: [http://zotero.org/groups/5737020/items/GZLNQ8ML](http://zotero.org/groups/5737020/items/GZLNQ8ML)
 [^10]: [Obsidian - Homepage](http://zotero.org/groups/5737020/items/5AMRCP64)
 [^11]: [Spaced Repetition Obsidian Plugin - Github](http://zotero.org/groups/5737020/items/ZT6T6SKU)

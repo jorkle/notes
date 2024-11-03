@@ -1,5 +1,6 @@
 ---
 title: Hacking
+description: "Hacking notes"
 permalink: hacking
 publish: true
 tags:

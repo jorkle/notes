@@ -1,5 +1,6 @@
 ---
 title: Tactics, Techniques, and Proceedures
+description: "Tactics, Techniques, and Proceedures"
 permalink: techniques
 publish: true
 tags:

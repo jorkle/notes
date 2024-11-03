@@ -1,5 +1,6 @@
 ---
 title: Five Stages of Ethical Hacking
+description: "The five stages of (ethical) hacking"
 permalink: five-stages-of-ethical-hacking
 draft: false
 tags:
@@ -12,6 +13,8 @@ status:
 aliases:
   - Five Stages of Ethical Hacking
 ---
+
+# Five Stages of Ethical Hacking
 
 ## Notes
 
