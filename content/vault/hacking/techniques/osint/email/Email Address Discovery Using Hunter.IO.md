@@ -24,7 +24,7 @@ aliases:
 
 > [!quote] Email Address Discovery Using Hunter.IO
 > 
-> ![[../../../../../attachments/Pasted image 20241103092925.png]]
+> ![[../../../../../attachments/Pasted image 20241103093437.png]]
 > 
 > ***Hunter.io*** [^1] is a web service that can be leveraged to:
 > 1. Locate email addresses for a specific domain or organization.
