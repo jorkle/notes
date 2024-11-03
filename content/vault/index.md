@@ -1,6 +1,6 @@
 ---
 title: Jorkle's Notes
-description: "Ethical Hacking-related notes from my Obsidian vault"
+description: "Ethical hacking-related notes from my Obsidian vault"
 permalink: jorkles-notes
 publish: true
 tags:

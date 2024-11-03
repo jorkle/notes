@@ -1,5 +1,6 @@
 ---
-title: Vault Index
+title: Jorkle's Obsidian Vault
+description: "Jorkle's Obsidian vault containing notes, mindmaps, and cheatsheets relating to ethical hacking, penetration testing, and red teaming"
 publish: true
 tags:
   - note-system
@@ -7,7 +8,7 @@ flashcards: false
 status:
   - 🟩
 aliases:
-  - Vault Index
+  - Jorkle's Obsidian Vault
 ---
 
 ## Start Here
