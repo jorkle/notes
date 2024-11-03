@@ -12,8 +12,8 @@ aliases:
 ---
 
 ## Index
-- [[comp-sci-theory/index|Computer Science Theory]]
-- [[computer-networking/index|Computer Networking]]
-- [[operating-systems/index|Operating Systems]]
-- [[programming-and-scripting/index|Programming & Scripting]]
-- [[security-theory/index|Security Basics & Theory]]
+- [[compsci/index|Computer Science Theory]]
+- [[networking/index|Computer Networking]]
+- [[os/index|Operating Systems]]
+- [[coding/index|Programming & Scripting]]
+- [[security/index|Security Basics & Theory]]
